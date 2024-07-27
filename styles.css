@@ -1,0 +1,36 @@
+body {
+    background-image: url("https://i.ibb.co/4tyMDQ0/cafe-1.jpg");
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    color: white;
+    
+    padding: 20px;
+}
+
+h1 {
+    color: #4CAF50;
+}
+
+p {
+    color: white;
+    
+    
+    border-radius: 5px;
+    
+}
+
+button {
+    color: red;
+    margin-top: 20px; /* Ajuste o valor conforme necessário */
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50; /* Cor de fundo verde */
+    color: white; /* Cor do texto branco */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: yellowgreen; /* Cor de fundo ao passar o mouse */
+}

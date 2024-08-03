@@ -25,6 +25,8 @@ Para rodar este projeto localmente, siga as etapas abaixo:
    git clone https://github.com/seu-usuario/devclub-cafe.git
 
 🖼️ Screenshot
+![Descrição da imagem](img/projeto-cafeteria.png)
+
 
 🎨 Estilos CSS
 Os estilos são definidos no arquivo styles.css e incluem classes para estilizar o título, a descrição e o botão de contato.
